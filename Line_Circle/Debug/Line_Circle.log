@@ -1,0 +1,7 @@
+﻿  GameObject.cpp
+  Line.cpp
+  Main.cpp
+  Model.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Line_Circle.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level6\physics-linecircle-masterVS2019\Line_Circle\Debug\Line_Circle.exe
